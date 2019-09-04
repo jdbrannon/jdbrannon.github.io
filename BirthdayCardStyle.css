@@ -1,0 +1,62 @@
+p.titletext {
+	color: Purple;
+	font-size: 80px;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 3px 3px 5px blue;
+}
+.bodytext {
+	color: Purple;
+	font-size: 45px;
+	font-weight: bold;
+}
+.mainbody {
+	padding: 0 200px 0 200px;
+	text-align: justify;
+	text-indent: 50px;
+}
+.salutations {
+	padding: 0 0 0 500px;
+}
+.salutationText {
+	padding: 0 0 0 600px;
+}
+img {
+	position: absolute;
+}
+.top {
+	width: 250px;
+	height: 200px;
+	top: 100px;
+}
+.one {
+	left: 100px;
+}
+.two {
+	right: 100px;
+}
+.bottom {
+	width: 200px;
+	height: 200px;
+	bottom: 70px;
+}
+.three {
+	left: 200px;
+}
+.four {
+	right: 300px;
+}
+.rotateright {
+	-webkit-transform:rotate(20deg);			/* https://www.computerhope.com/issues/ch001784.htm */
+	-moz-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	-o-transform: rotate(20deg);
+	transform: rotate(20deg);
+}
+.rotateleft {
+	-webkit-transform:rotate(330deg);
+	-moz-transform: rotate(330deg);
+	-ms-transform: rotate(330deg);
+	-o-transform: rotate(330deg);
+	transform: rotate(330deg);
+}
