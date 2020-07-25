@@ -1,0 +1,23 @@
+{
+  "name": "my_works",
+  "version": "1.0.0",
+  "description": "This is a website for presenting the projects I have worked on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremiah Brannon",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0"
+  },
+  "dependencies": {
+    "css-loader": "^4.0.0",
+    "eslint": "^7.5.0",
+    "script-loader": "^0.7.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
